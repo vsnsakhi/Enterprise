@@ -379,12 +379,6 @@ Running `npm run seed` loads:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 <div align="center">
 
 Built with ❤️ as an enterprise-grade simulation of global investment bank operations.
